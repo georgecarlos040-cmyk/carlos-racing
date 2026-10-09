@@ -1,0 +1,19 @@
+{
+  "name": "CARLOS Racing Simulation",
+  "short_name": "CARLOS",
+  "description": "Realistic mobile racing simulation",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1016",
+  "theme_color": "#10151d",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
